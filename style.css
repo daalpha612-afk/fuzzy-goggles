@@ -3,3 +3,10 @@
   font-size: 67;
   text-decoration: underline;
 }
+.intro {
+  font-size: 20;
+  font-weight: lighter;
+}
+.interesting {
+  font-size: 15;
+}
